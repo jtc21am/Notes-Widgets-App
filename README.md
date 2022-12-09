@@ -27,8 +27,8 @@ python manage.py runserver
 
 The project will be available at **http://127.0.0.1:8000/**.
 
-![Screenshot1](/screenshots/Screenshot1.png)
-![Screenshot2](/screenshots/Screenshot3.png)
-![Screenshot3](/screenshots/Screenshot4.png)
-![Screenshot4](/screenshots/Screenshot5.png)
-![Screenshot5](/screenshots/Screenshot6.png)
+![Screenshot1](Screenshot1.png)
+![Screenshot2](Screenshot3.png)
+![Screenshot3](Screenshot4.png)
+![Screenshot4](Screenshot5.png)
+![Screenshot5](Screenshot6.png)
